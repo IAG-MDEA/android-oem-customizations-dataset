@@ -1,0 +1,2605 @@
+[
+    {
+        "latest_version": "9",
+        "file_path_result": [
+            {
+                "file_path": "com/android/org/conscrypt/ApplicationProtocolSelectorAdapter.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/TrustManagerImpl$ExtendedKeyUsagePKIXCertPathChecker.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/KeyGeneratorImpl$HmacMD5.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ConscryptEngine.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/Conscrypt.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/EvpMdRef$SHA384.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeSslSession.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLRSAPrivateKey.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/EvpMdRef$SHA1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ByteArray.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/AbstractSessionContext.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ExperimentalApi.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/Java8EngineWrapper.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLECGroupContext.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLX509CertificateFactory$2.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/EvpMdRef.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER$AES$ECB$PKCS5Padding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/KeyGeneratorImpl$ChaCha20.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER$AES$CTR.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/KeyGeneratorImpl$DESEDE.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_AEAD.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/JSSEProvider.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/KeyManagerFactoryImpl.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/SSLUtils$EngineStates.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER$AES_256$ECB$PKCS5Padding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/Java8FileDescriptorSocket$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeRef$EC_POINT.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/PSKKeyManager.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/TrustedCertificateStore$PreloadHolder.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/DefaultSSLContextImpl.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER$AES$CBC.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/Platform$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/SSLUtils.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_AEAD$AES.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLBIOInputStream.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/IvParameters$AES.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeSsl.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/SSLParametersImpl.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/TrustedCertificateKeyStoreSpi.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/FileClientSessionCache$Impl.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeCryptoJni.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipherChaCha20.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/KeyGeneratorImpl$HmacSHA224.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLContextImpl$TLSv12.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ConscryptEngineSocket$2.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLMac.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLSignatureRawRSA.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLSocketFactoryImpl.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeConstants.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/GCMParameters.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLServerSocketFactoryImpl.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeRef$EVP_PKEY.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/Java7ExtendedSSLSession.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/SSLNullSession.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ServerSessionContext.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/Hex.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER$AES_256.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeRef$HMAC_CTX.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ActiveSession.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/FileClientSessionCache$CacheFile.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/DuckTypedPSKKeyManager.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipherRSA.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLSignature$SHA384RSAPSS.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLSignature$SHA1ECDSA.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLX509CRL.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER$DESEDE$CBC.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/TrustManagerImpl.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/SSLClientSessionCache.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/Platform$NoPreloadHolder.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/TrustedCertificateStore$5.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLRSAKeyPairGenerator.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLMac$HmacSHA1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLProvider.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OAEPParameters.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipherRSA$OAEP$SHA384.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLSignature$SHA512RSAPSS.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$Padding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/AbstractConscryptSocket.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLMessageDigestJDK$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLSignature$SHA224RSA.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER$AES_256$ECB.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ConscryptEngine$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_AEAD$AES$GCM.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLRSAKeyFactory.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/TrustedCertificateStore$2.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/SSLNullSession$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeRef$SSL_SESSION.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLSignature$EngineType.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipherRSA$OAEP$SHA256.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/SSLParametersImpl$PSKCallbacks.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER$AES_128.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/Preconditions.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/KeyGeneratorImpl$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ExternalSession.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLSignature$SHA224ECDSA.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLSignature$SHA384RSA.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLBIOSink.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/TrustedCertificateStore$3.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipherRSA$OAEP$SHA1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLContextImpl.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLContextImpl$TLSv11.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLMessageDigestJDK.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/Java8EngineWrapper$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/SessionDecorator.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER$DESEDE$CBC$PKCS5Padding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLKeyHolder.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/KeyGeneratorImpl$HmacSHA512.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/AbstractSessionContext$2.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/SessionSnapshot.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ConscryptFileDescriptorSocket.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/SSLServerSessionCache.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ConscryptSession.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER$AES$CBC$NoPadding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/TrustedCertificateStore$CertSelector.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLBIOSource.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/EvpMdRef$SHA224.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ConscryptEngineSocket$SSLOutputStream.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipherRSA$Raw.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER$AES_128$CBC.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ConscryptEngineSocket.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER$AES_256$CBC$NoPadding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLX509CRLEntry.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/KeyGeneratorImpl.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeRef$EVP_CIPHER_CTX.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER$AES_128$CBC$PKCS5Padding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeSslSession$Impl$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER$ARC4.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/EmptyArray.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLSignature$MD5RSA.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLSignature$SHA224RSAPSS.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/KeyGeneratorImpl$ARC4.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/BufferAllocator.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLSignature$SHA384ECDSA.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLSignature$SHA512ECDSA.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/Platform.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLSignature$SHA1RSA.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLSignature$RSAPKCS1Padding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/KeyGeneratorImpl$HmacSHA384.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipherRSA$OAEP.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/SSLParametersImpl$AliasChooser.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLX509CertificateFactory$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLECPrivateKey.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ConscryptSocketBase$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLMac$HmacSHA224.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/FileClientSessionCache.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/HandshakeListener.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER$AES_128$ECB$NoPadding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLECPointContext.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$Mode.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/AddressUtils.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLMac$HmacSHA256.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER$AES_256$ECB$NoPadding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLSignature$SHA256RSAPSS.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER$AES_256$CTR.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/Java8EngineSocket.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER$AES$CBC$PKCS5Padding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLX509CertPath$Encoding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeRef$EVP_MD_CTX.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ECParameters.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/PeerInfoProvider$2.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLSocketImpl.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/Java8ExtendedSSLSession.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/EvpMdRef$MD5.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeRef.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/KeyGeneratorImpl$AES.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipherRSA$OAEP$SHA224.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ChainStrengthAnalyzer.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER$AES_128$CBC$NoPadding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/TrustManagerImpl$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLMessageDigestJDK$SHA1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLECKeyPairGenerator.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/SSLNullSession$DefaultHolder.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeSsl$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/CertificatePriorityComparator.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER$AES_BASE.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLMessageDigestJDK$SHA224.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ConscryptEngineSocket$SSLInputStream.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLMac$HmacSHA384.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER$AES$ECB.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLSignature$SHA512RSA.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeSslSession$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLECDHKeyAgreement.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER$AES_256$CBC.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/CertBlacklist.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ApplicationProtocolSelector.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLX509Certificate.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLSignature.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/TrustManagerFactoryImpl.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLRSAPrivateCrtKey.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLMac$HmacMD5.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/SSLUtils$SessionType.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLX509CertificateFactory$ParsingException.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ConscryptEngine$2.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/TrustManagerImpl$TrustAnchorComparator.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/TrustedCertificateIndex.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ExternalSession$Provider.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLSignature$RSAPSSPadding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeRef$EC_GROUP.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/BufferAllocator$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLX509CertificateFactory$Parser.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeSsl$BioWrapper.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLSignatureRawECDSA.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/Java8EngineSocket$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ConscryptEngineSocket$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipherRSA$OAEP$SHA512.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/InternalUtil.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/IvParameters.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ConscryptFileDescriptorSocket$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLECPublicKey.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeCrypto$SSLHandshakeCallbacks.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/KeyManagerImpl.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLMessageDigestJDK$SHA384.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/KeyGeneratorImpl$HmacSHA256.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLKey.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ClientSessionContext$HostAndPort.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/AllocatedBuffer$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLRandom.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER$AES_128$ECB.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ArrayUtils.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ConscryptFileDescriptorSocket$2.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER$AES$ECB$NoPadding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLSignature$SHA256RSA.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_AEAD$AES$GCM$AES_256.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLMac$HmacSHA512.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLMac$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLRSAPublicKey.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER$AES_128$CTR.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/CryptoUpcalls.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLContextImpl$TLSv1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLECKeyFactory.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_AEAD$ChaCha20.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER$DESEDE$CBC$NoPadding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/Java8FileDescriptorSocket.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/AllocatedBuffer.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_AEAD$AES$GCM$AES_128.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeRef$EVP_PKEY_CTX.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/KeyGeneratorImpl$HmacSHA1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ConscryptFileDescriptorSocket$SSLInputStream.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/X509PublicKey.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLMessageDigestJDK$SHA256.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLMessageDigestJDK$SHA512.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/AbstractConscryptEngine.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/EvpMdRef$SHA256.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeCrypto.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/TrustedCertificateStore$4.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipherRSA$DirectRSA.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/DESEDESecretKeyFactory.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER$AES.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ClientSessionContext.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLSignature$SHA256ECDSA.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLSignature$SHA1RSAPSS.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ConscryptSocketBase.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/TrustedCertificateStore.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipherRSA$PKCS1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ConscryptFileDescriptorSocket$SSLOutputStream.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/IvParameters$DESEDE.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/CertPinManager.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLX509CertPath$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLX509CertPath.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLX509CertificateFactory.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER$AES_128$ECB$PKCS5Padding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/TrustedCertificateStore$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/PeerInfoProvider$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER$DESEDE.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/PeerInfoProvider.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLMessageDigestJDK$MD5.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/AbstractSessionContext$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeSslSession$Impl.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLBIOSource$ByteBufferInputStream.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLSignature$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/IvParameters$ChaCha20.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/Internal.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/EvpMdRef$SHA512.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ConscryptServerSocket.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_CIPHER$AES_256$CBC$PKCS5Padding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ct/CTPolicyImpl.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ct/CTConstants.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ct/CTLogStoreImpl$InvalidLogFileException.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ct/CTLogStoreImpl.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ct/CTLogStore.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ct/CTVerifier.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ct/SerializationException.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ct/Serialization.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ct/KnownLogs.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ct/SignedCertificateTimestamp$SignatureType.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ct/SignedCertificateTimestamp$Origin.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ct/DigitallySigned$SignatureAlgorithm.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ct/CTLogInfo.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ct/SignedCertificateTimestamp.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ct/VerifiedSCT$Status.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ct/DigitallySigned$HashAlgorithm.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ct/CTPolicy.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ct/CertificateEntry$LogEntryType.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ct/CTVerificationResult.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ct/DigitallySigned.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ct/VerifiedSCT.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ct/SignedCertificateTimestamp$Version.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ct/CertificateEntry.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            }
+        ]
+    },
+    {
+        "latest_version": "10",
+        "file_path_result": [
+            {
+                "file_path": "android/net/ssl/SSLEngines.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "android/net/ssl/SSLSockets.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ConscryptEngine.smali",
+                "newly_added": [
+                    "setDefaultBufferAllocator",
+                    "getDefaultBufferAllocator",
+                    "exportKeyingMaterial"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/Conscrypt.smali",
+                "newly_added": [
+                    "newProviderBuilder",
+                    "getHostnameVerifier",
+                    "getDefaultHostnameVerifier",
+                    "version",
+                    "setHostnameVerifier",
+                    "setDefaultBufferAllocator",
+                    "exportKeyingMaterial",
+                    "<clinit>",
+                    "setDefaultHostnameVerifier"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeSslSession.smali",
+                "newly_added": [
+                    "isSingleUse"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/AbstractSessionContext.smali",
+                "newly_added": [
+                    "removeSession"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/Java8EngineWrapper.smali",
+                "newly_added": [
+                    "exportKeyingMaterial"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/Conscrypt$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_AEAD.smali",
+                "newly_added": [
+                    "engineDoFinal"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/AbstractConscryptSocket$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/SSLUtils.smali",
+                "newly_added": [
+                    "getClientKeyTypeFromSignatureAlg",
+                    "concat",
+                    "encodeSubjectX509Principals"
+                ],
+                "deprecated": [
+                    "encodeIssuerX509Principals",
+                    "unwrapSession"
+                ]
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLBIOInputStream.smali",
+                "newly_added": [
+                    "read"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeSsl.smali",
+                "newly_added": [
+                    "forceRead",
+                    "exportKeyingMaterial"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/SSLParametersImpl.smali",
+                "newly_added": [
+                    "cloneWithTrustManager",
+                    "filterFromCipherSuites"
+                ],
+                "deprecated": [
+                    "concat"
+                ]
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ConscryptEngineSocket$3.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ConscryptEngineSocket$2.smali",
+                "newly_added": [
+                    "checkServerTrusted",
+                    "checkClientTrusted",
+                    "<init>",
+                    "getAcceptedIssuers"
+                ],
+                "deprecated": [
+                    "<clinit>"
+                ]
+            },
+            {
+                "file_path": "com/android/org/conscrypt/Java7ExtendedSSLSession.smali",
+                "newly_added": [],
+                "deprecated": [
+                    "getDelegate"
+                ]
+            },
+            {
+                "file_path": "com/android/org/conscrypt/SSLNullSession.smali",
+                "newly_added": [],
+                "deprecated": [
+                    "isNullSession"
+                ]
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ActiveSession.smali",
+                "newly_added": [],
+                "deprecated": [
+                    "resetId",
+                    "notifyUnbound"
+                ]
+            },
+            {
+                "file_path": "com/android/org/conscrypt/TrustManagerImpl.smali",
+                "newly_added": [
+                    "getHostnameVerifier",
+                    "getDefaultHostnameVerifier",
+                    "setHostnameVerifier",
+                    "getHttpsVerifier",
+                    "setDefaultHostnameVerifier"
+                ],
+                "deprecated": [
+                    "isUserAddedCertificate"
+                ]
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OAEPParameters.smali",
+                "newly_added": [
+                    "readMgfHash",
+                    "writeHashAndMgfHash",
+                    "readHash"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/AbstractConscryptSocket.smali",
+                "newly_added": [
+                    "isOutputShutdown",
+                    "connect",
+                    "setTrafficClass",
+                    "isDelegating",
+                    "getTcpNoDelay",
+                    "setOOBInline",
+                    "getSoLinger",
+                    "getActiveSession",
+                    "getKeepAlive",
+                    "getLocalSocketAddress",
+                    "isBound",
+                    "getSendBufferSize",
+                    "setReuseAddress",
+                    "getReuseAddress",
+                    "sendUrgentData",
+                    "close",
+                    "getOutputStream",
+                    "setSendBufferSize",
+                    "getOOBInline",
+                    "getSoTimeout",
+                    "getPort",
+                    "removeHandshakeCompletedListener",
+                    "addHandshakeCompletedListener",
+                    "toString",
+                    "exportKeyingMaterial",
+                    "shutdownOutput",
+                    "getReceiveBufferSize",
+                    "getRemoteSocketAddress",
+                    "setReceiveBufferSize",
+                    "checkOpen",
+                    "isInputShutdown",
+                    "notifyHandshakeCompletedListeners",
+                    "isConnected",
+                    "setTcpNoDelay",
+                    "getTrafficClass",
+                    "setKeepAlive",
+                    "shutdownInput",
+                    "setPerformancePreferences",
+                    "setSoTimeout",
+                    "getLocalPort",
+                    "getInputStream",
+                    "getInetAddress",
+                    "getChannel",
+                    "getLocalAddress",
+                    "isClosed",
+                    "bind",
+                    "setSoLinger"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_AEAD$AES$GCM.smali",
+                "newly_added": [
+                    "getOutputSizeForFinal"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ExternalSession.smali",
+                "newly_added": [],
+                "deprecated": [
+                    "getDelegate"
+                ]
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeCrypto$Range.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ConscryptFileDescriptorSocket.smali",
+                "newly_added": [
+                    "exportKeyingMaterial"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ConscryptEngineSocket.smali",
+                "newly_added": [
+                    "getDelegatingTrustManager",
+                    "setBufferAllocator",
+                    "exportKeyingMaterial",
+                    "access$1100"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/Platform.smali",
+                "newly_added": [
+                    "newDefaultPolicy",
+                    "getDefaultCertKeyStore",
+                    "supportsX509ExtendedTrustManager",
+                    "newDefaultBlacklist",
+                    "newDefaultCertStore",
+                    "provideTrustManagerByDefault",
+                    "supportsConscryptCertStore",
+                    "newDefaultLogStore"
+                ],
+                "deprecated": [
+                    "isLiteralIpAddress"
+                ]
+            },
+            {
+                "file_path": "com/android/org/conscrypt/PSSParameters.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ConscryptHostnameVerifier.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/CertBlacklistImpl.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ConscryptEngineSocket$SSLInputStream.smali",
+                "newly_added": [
+                    "release",
+                    "readUntilDataAvailable",
+                    "processDataFromSocket"
+                ],
+                "deprecated": [
+                    "readInternal"
+                ]
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLContextImpl$TLSv13.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/CertBlacklist.smali",
+                "newly_added": [],
+                "deprecated": [
+                    "getDefault",
+                    "closeQuietly",
+                    "readFileAsBytes",
+                    "toHex",
+                    "readFileAsString",
+                    "<init>",
+                    "readBlacklist",
+                    "isPubkeyHash",
+                    "readPublicKeyBlackList",
+                    "readSerialBlackList",
+                    "<clinit>",
+                    "isHex"
+                ]
+            },
+            {
+                "file_path": "com/android/org/conscrypt/InternalUtil.smali",
+                "newly_added": [],
+                "deprecated": [
+                    "getOcspSingleExtension"
+                ]
+            },
+            {
+                "file_path": "com/android/org/conscrypt/AllocatedBuffer$1.smali",
+                "newly_added": [],
+                "deprecated": [
+                    "retain"
+                ]
+            },
+            {
+                "file_path": "com/android/org/conscrypt/Conscrypt$Version.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/TrustManagerImpl$GlobalHostnameVerifierAdapter.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/CryptoUpcalls.smali",
+                "newly_added": [
+                    "signDigestWithPrivateKey",
+                    "rsaSignDigestWithPrivateKey",
+                    "rsaOpWithPrivateKey",
+                    "ecSignDigestWithPrivateKey"
+                ],
+                "deprecated": [
+                    "rawSignDigestWithPrivateKey",
+                    "isOurProvider"
+                ]
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$EVP_AEAD$ChaCha20.smali",
+                "newly_added": [
+                    "getOutputSizeForFinal"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ConscryptCertStore.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/AbstractConscryptEngine.smali",
+                "newly_added": [
+                    "exportKeyingMaterial"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeCrypto.smali",
+                "newly_added": [
+                    "getProtocolConstant",
+                    "SSL_export_keying_material",
+                    "SSL_set_protocol_versions",
+                    "SSL_get_signature_algorithm_key_type",
+                    "SSL_SESSION_should_be_single_use",
+                    "ENGINE_SSL_force_read",
+                    "getProtocolRange"
+                ],
+                "deprecated": [
+                    "ERR_peek_last_error"
+                ]
+            },
+            {
+                "file_path": "com/android/org/conscrypt/Conscrypt$ProviderBuilder.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ClientSessionContext.smali",
+                "newly_added": [
+                    "putSession",
+                    "removeSession"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeSslSession$Impl.smali",
+                "newly_added": [
+                    "isSingleUse"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/io/IoUtils.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            }
+        ]
+    },
+    {
+        "latest_version": "11",
+        "file_path_result": [
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherAES$AES_256$ECB$NoPadding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ConscryptEngine.smali",
+                "newly_added": [
+                    "freeIfDone",
+                    "selectApplicationProtocol",
+                    "provideAfterHandshakeSession",
+                    "serverCertificateRequested"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherDESEDE$CBC$NoPadding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLECGroupContext.smali",
+                "newly_added": [
+                    "<clinit>",
+                    "getCurveName"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/DefaultSSLContextImpl$TLSv12.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherAES$AES.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeSsl.smali",
+                "newly_added": [
+                    "verifyWithSniMatchers",
+                    "getCipherKeyTypes",
+                    "configureServerCertificate"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/SSLParametersImpl.smali",
+                "newly_added": [
+                    "getApplicationProtocolSelector",
+                    "setAlgorithmConstraints",
+                    "setSNIMatchers",
+                    "getSNIMatchers",
+                    "getAlgorithmConstraints"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ShortBufferWithoutStackTraceException.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherARC4.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/Java7ExtendedSSLSession.smali",
+                "newly_added": [
+                    "getApplicationProtocol"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/SSLNullSession.smali",
+                "newly_added": [
+                    "getApplicationProtocol"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ActiveSession.smali",
+                "newly_added": [
+                    "getApplicationProtocol"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLAeadCipherAES$GCM_SIV$AES_256.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLAeadCipherChaCha20.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherAES$AES_256.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherAES$AES_256$ECB$PKCS5Padding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherAES$AES_256$CBC$NoPadding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ExternalSession.smali",
+                "newly_added": [
+                    "getApplicationProtocol"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLAeadCipherAES.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherAES$AES$ECB$PKCS5Padding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLAeadCipherAES$GCM_SIV.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/SessionSnapshot.smali",
+                "newly_added": [
+                    "getApplicationProtocol"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ConscryptFileDescriptorSocket.smali",
+                "newly_added": [
+                    "selectApplicationProtocol",
+                    "provideAfterHandshakeSession",
+                    "serverCertificateRequested"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ConscryptSession.smali",
+                "newly_added": [
+                    "getApplicationProtocol"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ConscryptEngineSocket.smali",
+                "newly_added": [
+                    "setHandshakeTimeout",
+                    "chooseServerAlias",
+                    "chooseClientAlias",
+                    "drainOutgoingQueue"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLAeadCipherAES$GCM.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherAES$AES$ECB$NoPadding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherAES$AES_128$CBC$NoPadding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherAES$AES$CTR.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/Platform.smali",
+                "newly_added": [
+                    "serverNamePermitted"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherAES$AES_128$CBC.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLCipher$Mode.smali",
+                "newly_added": [
+                    "getNormalized"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherAES$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherAES$AES_128$ECB.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherAES$AES_256$ECB.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/DefaultSSLContextImpl$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/CertBlacklistImpl.smali",
+                "newly_added": [
+                    "toByteStrings"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherAES$AES_256$CBC.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherAES$AES$CBC.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherAES$AES$CBC$PKCS5Padding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OidData.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherDESEDE$CBC$PKCS5Padding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherAES$AES_256$CTR.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/CertBlacklistImpl$ByteString.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLAeadCipherAES$GCM$AES_128.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLAeadCipherAES$GCM_SIV$AES_128.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherDESEDE.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeCrypto$SSLHandshakeCallbacks.smali",
+                "newly_added": [
+                    "selectApplicationProtocol",
+                    "serverCertificateRequested"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLKey.smali",
+                "newly_added": [
+                    "isHardwareBacked"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLAeadCipher.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipher.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherAES$AES$CBC$NoPadding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherAES$AES_128$ECB$PKCS5Padding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherAES$AES_128.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/ConscryptFileDescriptorSocket$SSLInputStream.smali",
+                "newly_added": [
+                    "available"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherAES$AES$ECB.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherAES$AES_256$CBC$PKCS5Padding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherDESEDE$CBC.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/DefaultSSLContextImpl$TLSv13.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeCrypto.smali",
+                "newly_added": [
+                    "setHasApplicationProtocolSelector",
+                    "EVP_aead_aes_256_gcm_siv",
+                    "EVP_aead_aes_128_gcm_siv"
+                ],
+                "deprecated": [
+                    "setApplicationProtocolSelector"
+                ]
+            },
+            {
+                "file_path": "com/android/org/conscrypt/Conscrypt$ProviderBuilder.smali",
+                "newly_added": [
+                    "defaultTlsProtocol"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherAES.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/TrustedCertificateStore.smali",
+                "newly_added": [
+                    "findCertSet"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherDESEDE$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLAeadCipherAES$GCM$AES_256.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherAES$AES_128$ECB$NoPadding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherAES$AES_128$CBC$PKCS5Padding.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLEvpCipherAES$AES_128$CTR.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            }
+        ]
+    },
+    {
+        "latest_version": "12",
+        "file_path_result": [
+            {
+                "file_path": "android/net/ssl/SSLEngines.smali",
+                "newly_added": [
+                    "exportKeyingMaterial"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "android/net/ssl/SSLSockets.smali",
+                "newly_added": [
+                    "exportKeyingMaterial"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/Conscrypt.smali",
+                "newly_added": [
+                    "isBoringSSLFIPSBuild",
+                    "wrapHostnameVerifier"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/Conscrypt$1.smali",
+                "newly_added": [
+                    "verify",
+                    "<init>"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLMac$AesCmac.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeSsl.smali",
+                "newly_added": [
+                    "access$300"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLMac$Hmac.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLMac.smali",
+                "newly_added": [
+                    "doFinal",
+                    "updateDirect"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLXDHKeyAgreement.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/TrustManagerImpl.smali",
+                "newly_added": [
+                    "checkBlocklist"
+                ],
+                "deprecated": [
+                    "checkBlacklist"
+                ]
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLProvider.smali",
+                "newly_added": [
+                    "putXDHKeyAgreementImplClass"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/CertBlocklistImpl$ByteString.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLXDHKeyPairGenerator.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLBaseDHKeyAgreement.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/CertBlocklistImpl.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OkHostnameVerifier.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLX25519Key.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/Platform.smali",
+                "newly_added": [
+                    "newDefaultBlocklist",
+                    "getDefaultHostnameVerifier",
+                    "getMillisSinceBoot",
+                    "isJavaxCertificateSupported",
+                    "countTlsHandshake"
+                ],
+                "deprecated": [
+                    "newDefaultBlacklist"
+                ]
+            },
+            {
+                "file_path": "com/android/org/conscrypt/BufferUtils.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLECDHKeyAgreement.smali",
+                "newly_added": [
+                    "getOutputSize",
+                    "computeKey",
+                    "convertPrivateKey",
+                    "convertPublicKey"
+                ],
+                "deprecated": [
+                    "checkCompleted",
+                    "engineInit",
+                    "engineGenerateSecret",
+                    "engineDoPhase"
+                ]
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLX509Certificate.smali",
+                "newly_added": [
+                    "getTBSCertificateWithoutExtension"
+                ],
+                "deprecated": [
+                    "withDeletedExtension"
+                ]
+            },
+            {
+                "file_path": "com/android/org/conscrypt/CertBlocklist.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLX25519PublicKey.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLX25519PrivateKey.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeRef$CMAC_CTX.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/NativeCrypto.smali",
+                "newly_added": [
+                    "get_X509_tbs_cert_without_ext",
+                    "CMAC_Init",
+                    "CMAC_Final",
+                    "CMAC_UpdateDirect",
+                    "CMAC_Update",
+                    "EVP_AEAD_CTX_open_buf",
+                    "X25519",
+                    "EVP_AEAD_CTX_seal_buf",
+                    "usesBoringSSL_FIPS_mode",
+                    "CMAC_CTX_new",
+                    "get_X509_tbs_cert",
+                    "X25519_keypair",
+                    "CMAC_CTX_free"
+                ],
+                "deprecated": [
+                    "X509_delete_ext",
+                    "get_X509_cert_info_enc",
+                    "X509_dup",
+                    "ENGINE_SSL_read_BIO_heap",
+                    "ENGINE_SSL_write_BIO_heap"
+                ]
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLXDHKeyFactory.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLX509CertificateFactory.smali",
+                "newly_added": [
+                    "access$100",
+                    "isMaybePkcs7"
+                ],
+                "deprecated": []
+            },
+            {
+                "file_path": "com/android/org/conscrypt/OpenSSLXECParameterSpec.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/metrics/ReflexiveStatsEvent.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/metrics/ConscryptStatsLog.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/metrics/OptionalMethod.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/metrics/ReflexiveStatsLog.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/metrics/ReflexiveStatsEvent$Builder.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/metrics/Protocol.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/metrics/ReflexiveStatsEvent$1.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            },
+            {
+                "file_path": "com/android/org/conscrypt/metrics/CipherSuite.smali",
+                "newly_added": "Removed",
+                "deprecated": "Removed"
+            }
+        ]
+    }
+]
