@@ -2,6 +2,8 @@
 
 This repository contains structured results from our differential analysis pipeline for TLS-related AOSP components. The analysis is part of our broader study on [Android OEM Customizations](https://github.com/IAG-MDEA/android-oem-customizations-pipeline), aimed at uncovering vendor-introduced changes to core Android libraries and their potential implications on security and interoperability.
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 ## Contents
 
 The dataset is organized as follows:
